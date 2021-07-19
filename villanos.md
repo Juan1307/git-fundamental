@@ -2,3 +2,4 @@
 
 - joker
 - thanos
+- pantera axul
