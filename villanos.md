@@ -5,4 +5,3 @@
 - pantera axul
 
 - doomsday
-- pana dark
