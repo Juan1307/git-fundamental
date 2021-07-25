@@ -3,5 +3,4 @@
 - joker
 - thanos
 - pantera axul
-
 - doomsday
