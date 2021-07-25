@@ -4,3 +4,4 @@
 - thanos
 - pantera axul
 - doomsday
+- pana dark
