@@ -1,5 +1,6 @@
 :root{
    --primary: lightblue;
+   --secondary: lightgreen;
 }
 
 .class__main{
@@ -10,4 +11,9 @@
 
 p{
    font-family: consoles, sans-serif;
+   border-radius: 1rem;
+}
+
+main{
+   background-image: url('');
 }
