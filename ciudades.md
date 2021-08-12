@@ -22,8 +22,3 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 4. Mall Cray
 5. Peru Lima
 6. Chile Quito
-
-asdasd sdasd desde ciudades
-
-asdasdas
-d
