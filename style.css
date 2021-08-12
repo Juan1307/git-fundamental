@@ -7,3 +7,7 @@
    background-color: var(--secondary);
    border: .4rem solid var(--primary);
 }
+
+p{
+   font-family: consoles, sans-serif;
+}
