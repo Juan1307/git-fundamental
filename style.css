@@ -1,3 +1,11 @@
 :root{
    --primary: lightblue;
+   --secondary: lightgreen;
+}
+
+.class__main{
+   padding: 1rem;
+   background-color: var(--secondary);
+   border: .4rem solid var(--primary);
+   border-radius: 1rem;
 }
