@@ -8,4 +8,3 @@
 * Linterna Verde
 * Robin
 * RobinHood
-* William Wallace
