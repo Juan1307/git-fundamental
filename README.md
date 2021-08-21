@@ -1,3 +1,3 @@
 # Motivo
 
-Este repositorio sirve para probar cosas
+Este repositorio sirve para probar cosas de git 
